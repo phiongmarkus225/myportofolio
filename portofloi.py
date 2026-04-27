@@ -105,11 +105,11 @@ with st.sidebar:
     with col1:
         st.markdown("[LinkedIn](https://linkedin.com)")
     with col2:
-        st.markdown("[GitHub](https://github.com)")
+        st.markdown("[GitHub](https://github.com/phiongmarkus225)")
     with col3:
-        st.markdown("[Twitter](https://twitter.com)")
+        st.markdown("[Twitter](https://twitter.com/phiongmarkus)")
     with col4:
-        st.markdown("[Email](mailto:your@email.com)")
+        st.markdown("[Email](mailto:markusphiong22@gmail.com)")
 
 # ======================
 # HOME PAGE
@@ -622,9 +622,9 @@ elif menu == "📞 Contact":
         st.markdown("""
         <div class="contact-info">
         
-        **Email:** your.email@gmail.com
+        **Email:** markusphiong22@gmail.com
         
-        **Phone:** +62 8XX XXXX XXXX
+        **Phone:** 089605160225
         
         **Location:** Jakarta, Indonesia
         
@@ -635,15 +635,15 @@ elif menu == "📞 Contact":
         
         st.markdown("### 🔗 Social Media")
         st.markdown("""
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/phiongmarkus)
         
-        [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+        [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phiongmarkus225)
         
-        [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+        [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/phiongmarkus)
         
-        [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+        [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@phiongmarkus)
         
-        [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/yourprofile)
+        [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/phiongmarkus)
         """, unsafe_allow_html=True)
     
     with col2:
@@ -651,7 +651,7 @@ elif menu == "📞 Contact":
         
         with st.form("contact_form", clear_on_submit=True):
             name = st.text_input("Nama Anda", placeholder="Masukkan nama lengkap")
-            email = st.text_input("Email Anda", placeholder="your.email@gmail.com")
+            email = st.text_input("Email Anda", placeholder="markusphiong22@gmail.com")
             subject = st.selectbox(
                 "Subject",
                 ["General Inquiry", "Freelance Opportunity", "Job Opportunity", "Collaboration", "Other"]

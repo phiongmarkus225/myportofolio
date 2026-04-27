@@ -3,16 +3,16 @@
 
 PERSONAL_INFO = {
     # ===== BASIC INFO =====
-    "full_name": "Your Full Name",
+    "full_name": "Phiong Markus",
     "title": "Senior Data Scientist",
-    "email": "your.email@gmail.com",
-    "phone": "+62 8XX XXXX XXXX",
+    "email": "markusphiong22@gmail.com",
+    "phone": "089605160225",
     "location": "Jakarta, Indonesia",
     "profile_picture": "assets/foto.jpg",  # Path to profile image
     
     # ===== SOCIAL MEDIA =====
     "linkedin_url": "https://linkedin.com/in/yourprofile",
-    "github_url": "https://github.com/yourusername",
+    "github_url": "https://github.com/phiongmarkus225",
     "twitter_url": "https://twitter.com/yourhandle",
     "medium_url": "https://medium.com/@yourprofile",
     "kaggle_url": "https://kaggle.com/yourprofile",
@@ -198,8 +198,8 @@ SKILLS = {
 }
 
 CONTACT_INFO = {
-    "email": "your.email@gmail.com",
-    "phone": "+62 8XX XXXX XXXX",
+    "email": "markusphiong22@gmail.com",
+    "phone": "089605160225",
     "location": "Jakarta, Indonesia",
     "availability": "Full-time, Freelance, Consulting",
     "response_time": "24 hours",
@@ -219,7 +219,7 @@ THEME = {
 PORTFOLIO_META = {
     "title": "Data Science Portfolio | Professional",
     "description": "Professional Data Scientist Portfolio - Machine Learning, Data Analytics, Deep Learning",
-    "author": "Your Name",
+    "author": "Phiong Markus",
     "last_updated": "2024-01-20",
     "version": "1.0"
 }
