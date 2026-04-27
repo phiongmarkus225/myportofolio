@@ -119,7 +119,7 @@ if menu == "🏠 Home":
     col1, col2 = st.columns([2, 1], gap="large")
     
     with col1:
-        st.markdown("## 👋 Welcome!")
+        st.markdown("## 👋 Welcome! I'm Phiong Markus")
         st.write("""
         Saya adalah seorang Data Scientist profesional dengan pengalaman lebih dari 5 tahun 
         dalam mengembangkan solusi berbasis data. Spesialisasi saya mencakup:
