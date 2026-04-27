@@ -1,13 +1,6 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-import sys
-
-# Ensure compatibility
-try:
-    import plotly.graph_objects as go
-except ImportError:
-    pass
 
 # ======================
 # PAGE CONFIG & CUSTOM STYLING
