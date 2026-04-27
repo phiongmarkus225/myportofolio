@@ -613,7 +613,7 @@ elif menu == "📞 Contact":
     with col1:
         st.markdown("### 📧 Direct Contact")
         st.markdown("""
-        <div class="contact-info">
+        contact-info
         
         **Email:** markusphiong22@gmail.com
         
@@ -623,8 +623,8 @@ elif menu == "📞 Contact":
         
         **Available for:** Full-time | Freelance | Consulting
         
-        </div>
-        """, unsafe_allow_html=True)
+        
+        """)
         
         st.markdown("### 🔗 Social Media")
         st.markdown("""
