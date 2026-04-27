@@ -50,5 +50,4 @@ else:
     - LinkedIn: Phiong Markus
     - GitHub: Phiong Markus
     ''')
-    st.write('This portfolio was built with Streamlit.')
-xzc
+    st.write('This portfolio was built with Streamlit.') 
